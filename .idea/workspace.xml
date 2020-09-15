@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc5649bc-6e3a-4a61-b8c4-54f910367413" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hXHsdcVA8ViGdIr0FpNuoMAhDL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.PaasCloudGatewayApplication">
+    <configuration name="PaasCloudDiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="paascloud-discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paascloud.discovery.PaasCloudDiscoveryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaasCloudEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="paascloud-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paascloud.discovery.eureka.PaasCloudEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaasCloudGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="paascloud-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paascloud.gateway.PaasCloudGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaasCloudMdcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="paascloud-provider-mdc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paascloud.PaasCloudMdcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaasCloudMonitorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="paascloud-monitor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paascloud.discovery.PaasCloudMonitorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaasCloudOmcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="paascloud-provider-omc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paascloud.PaasCloudOmcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaasCloudOpcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="paascloud-provider-opc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paascloud.PaasCloudOpcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaasCloudTpcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="paascloud-provider-tpc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paascloud.PaasCloudTpcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaasCloudUacApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="paascloud-provider-uac" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paascloud.PaasCloudUacApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaasCloudZipkinApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="paascloud-zipkin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paascloud.discovery.PaasCloudZipkinApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc5649bc-6e3a-4a61-b8c4-54f910367413" name="Default Changelist" comment="" />
+      <created>1600150724974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600150724974</updated>
+      <workItem from="1600150733632" duration="430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
